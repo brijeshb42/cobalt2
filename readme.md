@@ -1,5 +1,5 @@
-#cobalt2
-A Sublime Text theme based on our old blue friend cobalt.
+#cobalt3
+A Sublime Text theme based on our old blue friend cobalt2.
 
 A refined colour scheme that is easy on the eyes and takes small UI elements into account. Includes full sublime theme (sidebar, search, tabs, etc...) as well as support for SublimeLinter, git diffing and a growing number of plugins.
 
